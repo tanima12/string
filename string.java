@@ -8,4 +8,4 @@
         System.out.println("Character at last index is: "+ str.charAt(strLength-1));
     }
 }
-
+//here is the code ( just for understand fork )
